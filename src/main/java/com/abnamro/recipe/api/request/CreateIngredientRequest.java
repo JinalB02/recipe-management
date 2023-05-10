@@ -4,7 +4,6 @@ import com.abnamro.recipe.config.ValidationConfig;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.*;
 
-import javax.persistence.SecondaryTable;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
