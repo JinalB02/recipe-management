@@ -15,9 +15,6 @@ For example, the API should be able to handle the following search requests:
 3. Recipes without “salmon” as an ingredient that has “oven” in the instructions.
 
 ## Requirements
-Please ensure that we have some documentation about the architectural choices and also how to
-run the application. The project is expected to be delivered as a GitHub (or any other public git
-hosting) repository URL.
 
 All these requirements needs to be satisfied:
 
